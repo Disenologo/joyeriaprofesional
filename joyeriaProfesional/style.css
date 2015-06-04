@@ -482,7 +482,7 @@ h2.parallax-quote {
 }
 
 .portfolio-slider .owl-buttons i:hover {
-	color: #323232;
+	color: #CA9B34;
 }
 
 .testimonials-carousel .owl-buttons, .twitter-carousel .owl-buttons, .gallery-slider .owl-buttons, .clients-carousel .owl-buttons {
@@ -590,7 +590,7 @@ h2.parallax-quote {
 .testimonial-position {
     font-size: 14px;
     font-weight: 700;
-    color: #323232;
+    color: #CA9B34;
 }
 
 .client-item {
@@ -790,7 +790,7 @@ h1.section-title:after {
 
 strong {
 	font-weight:700;
-	color: #323232;
+	color: #CA9B34;
 }
  
 .space {
@@ -1095,7 +1095,7 @@ blockquote {
     right: 10px;
     position: absolute;
     cursor: pointer;
-    color: #323232;
+    color: #CA9B34;
     top: -3px;
 	
 	/* IE8- hacks */
@@ -1125,7 +1125,7 @@ blockquote {
 
 }
 .logo2 img{
-	width: 25% !important;
+	width: 32% !important;
 	height: auto !important;
 	padding-bottom: 10px;
 }
@@ -1208,15 +1208,15 @@ ul#mainnav > li > a:hover > span{
 }
 
 ul#mainnav > li.item-active > a {
-	color:#323232;	
+	color:#CA9B34;	
 }
 
 ul#mainnav li a.sf-with-ul:hover, ul#mainnav li a.sf-with-ul:active {
-	color:#323232;
+	color:#CA9B34;
 }
 
 ul#mainnav li ul li a.sf-with-ul:hover, ul#mainnav li ul li a.sf-with-ul:active {
-	color:#323232;
+	color:#CA9B34;
 }
 
 ul#mainnav > li.current > a span {
@@ -1224,11 +1224,11 @@ ul#mainnav > li.current > a span {
 }
 
 ul#mainnav li a.sf-with-ul:hover, ul#mainnav li a.sf-with-ul:active {
-	color:#323232;
+	color:#CA9B34;
 }
 
 ul#mainnav li a:hover, ul#mainnav li a:active, ul#mainnav li a.current {
-	color:#323232;
+	color:#CA9B34;
 }
 
 ul#mainnav li ul li a.current {
@@ -1435,7 +1435,7 @@ h3.service {
 	font-weight: 300;
 	padding-bottom: 5px;
 	margin-top: 10px;
-	color: #323232;
+	color: #CA9B34;
 	margin-bottom: 0px;
 }
 
@@ -1490,7 +1490,7 @@ h3.service {
 	left:0;
 	font-weight:bold;
 	font-size: 14px;
-	color: #323232;
+	color: #CA9B34;
 }
 
 .skillbar-title span {
@@ -1534,7 +1534,7 @@ h3.service {
 	height: 0;
 	border-width: 10px;
 	border-style: solid;
-	border-color: #323232 transparent transparent transparent;
+	border-color: #CA9B34 transparent transparent transparent;
 	top: 11px;
 	left: 5px;
 }
@@ -2064,7 +2064,7 @@ ul#filters li a {
 	transition:all 0.2s linear;	
 	font-size: 42px;
 	text-align: center;
-	color: #323232;
+	color: #CA9B34;
 	-webkit-backface-visibility: hidden;
 	opacity: 0.3;
 	padding: 0 15px;
@@ -2148,7 +2148,7 @@ a.close-portfolio {
 
 .quote-post .post-content {
     border: none;
-    background: #323232;
+    background: #CA9B34;
     color: #A3A2A2;
     padding: 20px;
 }
@@ -2166,7 +2166,7 @@ a.close-portfolio {
 }
 
 h1.masonry-title a, .post-content h1 a {
-	color:#323232;
+	color:#CA9B34;
 }
 
 .post-read-more {
@@ -2450,7 +2450,7 @@ span.pages {
 /*--- Contact ---*/
 
 .contact-info i {
-    color: #323232;
+    color: #CA9B34;
     background: #fff;
     width: 24px;
     height: 24px;
@@ -2511,7 +2511,7 @@ span.pages {
 }
 
 .button-map:hover {
-    color: #323232;
+    color: #CA9B34;
     text-decoration: none;
     background: #fff;
 }
@@ -2651,7 +2651,7 @@ input:focus, textarea:focus {
 	width: 100%;
 	display: block;	
 	margin-bottom: 20px;
-	color: #323232;
+	color: #CA9B34;
 }
 
 .darker-overlay .tweet_text {
@@ -2883,12 +2883,12 @@ ul#social li a:hover {
 }
 
 .black {
-    background:#323232;
+    background:#CA9B34;
     color: #ffffff;
 }
 
 .black.alt {
-	border: 1px solid #323232;
+	border: 1px solid #CA9B34;
 	color: #686868;
 }
 
@@ -3049,7 +3049,7 @@ ul.tabs li:last-child {
 }
 
 ul.tabs li a:hover { 
-	color:#323232;
+	color:#CA9B34;
 }
 
 ul.tabs li.active {
@@ -3060,7 +3060,7 @@ ul.tabs li.active a {
 	border-left: 1px solid #EFEFEF;	
 	border-right: 1px solid #EFEFEF;	
 	border-bottom: 1px solid #fff;	
-	color:#323232;
+	color:#CA9B34;
 }
 
 ul.tabs li.active {
@@ -3070,7 +3070,7 @@ ul.tabs li.active {
 ul.tabs li.active, ul.tabs li.active a:hover  { 
     background:#fff;
 	
-    color: #323232;
+    color: #CA9B34;
 }
 
 
@@ -3109,7 +3109,7 @@ ul.tabs li.active, ul.tabs li.active a:hover  {
 }
 
 #toggle-view h3:hover, #toggle-view h3:active {
-	color: #323232;
+	color: #CA9B34;
 }
 
 #toggle-view span {
@@ -3336,7 +3336,7 @@ ul.customlist li i {
     width: 100%;
     display: inline-block;
     line-height: 56px;
-    color: #323232;
+    color: #CA9B34;
     margin-bottom: 8px;
 }
 
