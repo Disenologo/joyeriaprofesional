@@ -143,8 +143,8 @@ object {
 /* parallax */
 
 #contact {
-	/*background:url("img/jpmain3.png");
-	background-repeat: no-repeat;*/
+	background:url("img/jpmain3.png");
+	background-repeat: no-repeat;
 }
 
 #services {
