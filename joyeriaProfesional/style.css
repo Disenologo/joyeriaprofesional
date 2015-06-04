@@ -1230,6 +1230,7 @@ ul#mainnav li a.sf-with-ul:hover, ul#mainnav li a.sf-with-ul:active {
 
 ul#mainnav li a:hover, ul#mainnav li a:active, ul#mainnav li a.current {
 	color:#CA9B34;
+	text-decoration: none !important;
 }
 
 ul#mainnav li ul li a.current {
