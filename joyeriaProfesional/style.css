@@ -620,7 +620,7 @@ h2.parallax-quote {
     border: 1px solid #CA9B34;
 	cursor: pointer;
     text-align: center;
-    width: 70%;
+    width: 100%;
     height: auto;
 	-webkit-transition:all 0.2s linear;
     -moz-transition:all 0.2s linear;
