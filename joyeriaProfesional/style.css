@@ -29,6 +29,7 @@
 /*-----------------------------------------------------------------------------------*/
 /*	1.	CSS Reset & Clearfix - http://meyerweb.com/eric/tools/css/reset/
 /*-----------------------------------------------------------------------------------*/
+
 .textslider{
 	text-align: center;
 	font-size: 400%;
@@ -1138,7 +1139,9 @@ blockquote {
 .logo2 img{
 	width: 32% !important;
 	height: auto !important;
-	padding-bottom: 10px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-right: 1%;
 }
 .logo img {
 	display: inline-block;
@@ -1340,6 +1343,10 @@ h3.service {
 }
 
 .centered-wrapper {
+	width: 100%;
+	margin:0 auto;
+}
+.centered-wrapper1 {
 	width: 1360px;
 	margin:0 auto;
 }
