@@ -6283,6 +6283,8 @@ button.close {
     right: 20%;
     left: 20%;
     padding-bottom: 30px;
+    margin-bottom: 23%;
+    border:solid 2px #CA9B34;
   }
   .carousel-indicators {
     bottom: 20px;
