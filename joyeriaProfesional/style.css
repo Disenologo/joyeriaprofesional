@@ -1143,6 +1143,20 @@ blockquote {
 	padding-top: 30px;
 	padding-right: 1%;
 }
+.logo3 img{
+	width: 100% !important;
+	height: auto !important;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-right: 1%;
+}
+.logo4 img{
+	width: 70% !important;
+	height: auto !important;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-right: 1%;
+}
 .logo img {
 	display: inline-block;
 	vertical-align: bottom;
