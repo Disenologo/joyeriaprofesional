@@ -718,7 +718,7 @@ h2.parallax-quote {
 
 
 body {
-	font-family: Raleway, Helvetica, Arial, sans-serif;
+	font-family: Open Sans, Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	line-height: 24px;
 	background:#000;
@@ -1198,7 +1198,7 @@ ul#mainnav > li:last-child {
 }
 
 ul#mainnav li a {
-	font: 14px/20px 'Raleway', Raleway, Helvetica, Arial, sans-serif;
+	font: 14px/20px 'Open Sans', Open Sans, Helvetica, Arial, sans-serif;
 	position:relative;
 	font-weight: 700;
 	color:#fff;
